@@ -1,0 +1,116 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3{
+    position: absolute;
+    display: block;
+    clear: both;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    text-transform: uppercase;
+    top: 700px;
+    left: 100px;
+}
+
+h1 img{
+    margin: 10px;
+    position: absolute;
+    left: 120px;
+    top: 10px;    
+}
+
+.bairro{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    left: 180px;
+    top: 320px;
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;    
+}
+
+.equipe, .modelo, .placa{
+    position: absolute;
+    width: 200px;
+    height: 36px;
+    left: 180px;    
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.equipe{
+    top: 410px;
+}
+
+.modelo{
+    top: 510px;
+}
+
+.placa{
+    top:580px;
+}
+
+.cadastro{
+    position: absolute;
+    width: 200px;
+    height: 36px;
+    left: 180px;    
+    font-size: 20px;
+    text-align: center;    
+    top: 640px;
+    margin: 0px 0px 20px 0px;
+}
+
+.gbairro{
+    position: absolute;
+    width: 840px;
+    height: 80px;
+    left: 110px;
+    top: 350px;
+    font-size: 65px;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold; 
+    text-transform: uppercase;  
+         
+}
+
+.gequipe, .gmodelo, .gplaca{
+    position: absolute;
+    width: 480px;
+    height: 36px;
+    left: 300px;    
+    font-size: 70px;
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.gequipe{
+    top: 440px;
+}
+
+.gmodelo{
+    top: 630px;
+    font-weight: bold;
+}
+
+.gplaca{
+    top:700px;
+    font-weight: bold;
+}
+
+.fundo{
+    background-image: url("/cima.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 600px;
+    height: 400px;
+}
+
