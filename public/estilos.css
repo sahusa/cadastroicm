@@ -14,11 +14,13 @@ h3{
     left: 100px;
 }
 
+/*Imagem da página 2*/
 h1 img{
     margin: 10px;
     position: absolute;
     left: 120px;
-    top: 10px;    
+    top: 10px;
+    width: 320px;    
 }
 
 .bairro{
@@ -67,13 +69,14 @@ h1 img{
     margin: 0px 0px 20px 0px;
 }
 
+/*Página 2*/
 .gbairro{
     position: absolute;
     width: 840px;
     height: 80px;
-    left: 110px;
-    top: 350px;
-    font-size: 65px;
+    left: -160px;
+    top: 115px;
+    font-size: 23px;
     padding: 30px;
     text-align: center;
     font-weight: bold; 
@@ -85,27 +88,29 @@ h1 img{
     position: absolute;
     width: 480px;
     height: 36px;
-    left: 300px;    
-    font-size: 70px;
+    left: 20px;    
+    font-size: 35px;
     padding: 30px;
     text-align: center;
     text-transform: uppercase;
 }
 
 .gequipe{
-    top: 440px;
+    top: 155px;
 }
 
 .gmodelo{
-    top: 630px;
+    top: 225px;
     font-weight: bold;
 }
 
 .gplaca{
-    top:700px;
+    top:265px;
     font-weight: bold;
 }
 
+
+/*Imagem da página principal*/
 .fundo{
     background-image: url("/cima.jpg");
     background-repeat: no-repeat;
