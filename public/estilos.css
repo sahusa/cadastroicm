@@ -14,7 +14,7 @@ h3{
     left: 100px;
 }
 
-/*Imagem da página 2*/
+/*Imagem da página 2*/ /*A imagem está em gerador.ejs */
 h1 img{
     margin: 10px;
     position: absolute;
@@ -100,12 +100,12 @@ h1 img{
 }
 
 .gmodelo{
-    top: 225px;
+    top: 215px;
     font-weight: bold;
 }
 
 .gplaca{
-    top:265px;
+    top:250px;
     font-weight: bold;
 }
 
